@@ -1,5 +1,5 @@
 # Golang Course
 
-![./golang.png](Golang is the future)
+![Golang is the future](golang.png)
 
 This repository if from the Golang Course
