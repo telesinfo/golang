@@ -12,5 +12,8 @@ New feature to test branch control
 
 02 - NEW BRANCH TEST
 New branch test
+- New feature add
+- New feature add 2
+
 
 
