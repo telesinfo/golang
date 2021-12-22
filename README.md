@@ -12,3 +12,7 @@ New feature to test branch control
 
 # Update 2 branch master
 
+02 - NEW BRANCH TEST
+New branch test
+
+
