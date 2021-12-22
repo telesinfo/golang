@@ -2,4 +2,4 @@
 
 ![Golang is the future](golang.png)
 
-This repository if from the Golang Course
+This repository if from the Golang Course at Udemy
