@@ -17,6 +17,6 @@ New branch test
 - New feature add
 - New feature add 2
 
-# Update branch master 3
+# Update branch master 3 (Update fix problem - Issue #1)
 
 
